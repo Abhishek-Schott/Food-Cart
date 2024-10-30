@@ -1,0 +1,128 @@
+[
+    {
+        "id": 1201,
+        "name": "Biriyani",
+        "amt": "899",
+        "shop": "SS Hyderabad",
+        "ftype": "Non-Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/2/19845882/ab75136294c7efb0718ef311d17896f6_o2_featured_v2.jpg?output-format=webp",
+        "latest": "NO"
+    },
+    {
+        "id": 1304,
+        "name": "Fried Rice",
+        "amt": "199",
+        "shop": "Chinese Express",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/chains/4/3000274/8db9585bde3e1b5ba39ac76192de31a7_o2_featured_v2.jpg?output-format=webp",
+        "latest": "NO"
+    },
+    {
+        "id": 1458,
+        "name": "Paper Roast",
+        "amt": "99",
+        "shop": "Dosa Corner",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/chains/3/3000293/a67239e7f0a96f17e2b376ddf1c52b62_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 1675,
+        "name": "Grill",
+        "amt": "499",
+        "shop": "Grill House",
+        "ftype": "Non-Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/chains/7/3000107/febc1da9a0751095452af6db84fe6017_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 1742,
+        "name": "Meals",
+        "amt": "250",
+        "shop": "Lunch Box",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/0/3001350/a9538d7eb5b3c98ff7504df8c247c83c_o2_featured_v2.jpg?output-format=webp",
+        "latest": "NO"
+    },
+    {
+        "id": 1823,
+        "name": "Cake",
+        "amt": "299",
+        "shop": "Sweet Tooth",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/5/20715355/1f53ee2dfea419d27dd8db2b7fef0c52_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 1937,
+        "name": "Juice",
+        "amt": "60",
+        "shop": "Juice Junction",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/chains/6/18730026/12fbce94c010504141065c96780b753d_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 2056,
+        "name": "Pizza",
+        "amt": "399",
+        "shop": "Pizza Planet",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/9/20351659/449efaeeaf25dba667290f68a6687445_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 2168,
+        "name": "Taco Bell",
+        "amt": "150",
+        "shop": "Taco Bell",
+        "ftype": "Non-Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/9/19184079/3f6672bb9f90f90edac7427c549d6b05_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 2289,
+        "name": "Mojito",
+        "amt": "120",
+        "shop": "Mocktail Lounge",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/8/20759958/7da64ba1d3ecccbd9baf7bb60f8f4b2e_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 2354,
+        "name": "IceCream",
+        "amt": "80",
+        "shop": "IceCream Parlor",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/2/19277142/17ba2925076bcc7b3a39d8e3b9f8962c_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 2477,
+        "name": "Egg Cake",
+        "amt": "120",
+        "shop": "Cake Factory",
+        "ftype": "Non-Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/chains/7/19833437/91c08e5d9bc6e2f3418627cff958193c_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 2539,
+        "name": "Salads",
+        "amt": "150",
+        "shop": "Salad Stop",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/6/20524396/5ecb85ab5367541b48655edf19365d0f_o2_featured_v2.jpg",
+        "latest": "NO"
+    },
+    {
+        "id": 2643,
+        "name": "Chai",
+        "amt": "40",
+        "shop": "Chai Point",
+        "ftype": "Veg",
+        "pic": "https://b.zmtcdn.com/data/pictures/chains/6/19361036/c8016dba291c8a8f32aad6173da7e1d3_o2_featured_v2.jpg",
+        "latest": "NO"
+    }
+]

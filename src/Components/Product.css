@@ -1,0 +1,66 @@
+.product
+{
+    width: 250px;
+    height: 320px;
+    border: 1px solid #ccc;
+}
+
+.product .img
+{
+    width: 100%;
+    height: 200px;
+}
+
+.product .img img
+{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.details
+{
+    padding: 10px;
+}
+
+.details h3{
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.details p{
+    margin-bottom: 3px;
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(0, 193, 19);
+}
+
+.btnAdd
+{
+    margin-top: 5px;
+    padding: 8px 10px; 
+    border: none;
+    border-radius: 50px;
+    background-color: #119cff;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+}
+
+.details button:hover
+{
+    background-color: #004c83;
+    transition: .2s;
+}
+.btnRemove
+{
+    margin-top: 5px;
+    padding: 8px 10px; 
+    border: none;
+    border-radius: 50px;
+    color: white;
+    cursor: pointer;
+    transition: 1s;
+    background-color: red;
+}
+
